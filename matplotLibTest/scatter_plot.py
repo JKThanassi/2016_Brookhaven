@@ -1,6 +1,6 @@
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
-def scatter_plt():
+def scatter_plt(plt):
 
     #list init
     x = []
@@ -20,7 +20,7 @@ def scatter_plt():
     plt.xlabel("x")
     plt.ylabel("y")
     plt.title("Test scatter plt")
-    plt.show()
+    #plt.show(
 
 
-scatter_plt()
+
