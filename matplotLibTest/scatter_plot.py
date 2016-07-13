@@ -1,6 +1,13 @@
 #import matplotlib.pyplot as plt
 
 def scatter_plt(plt):
+    """
+    This function gathers input and creates a scatterplot and adds it to a pyplot object
+
+
+    :param plt: the pyplot object passed through
+    :return: Void
+    """
 
     #list init
     x = []
